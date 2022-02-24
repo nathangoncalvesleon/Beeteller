@@ -12,7 +12,7 @@ A Parte do layout de Login está identica ao projeto do figma, porém, está sem
 Porém com este desafio, obtive muita experiência na qual irei melhorar o meu desenvolvimento cada vez mais.
 
 
-Para rodar o projeto, basta apenas dar um npm start
+Para rodar o projeto, basta apenas dar um npm install react-scripts e depois  npm start
 
 
 ![WhatsApp Image 2022-02-24 at 12 42 02](https://user-images.githubusercontent.com/50429318/155557457-10338fcf-4b26-48dc-9077-527fe9062c1b.jpeg)
